@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hola, Soy Junior Mendez 👋 ##
+
+
+Soy Desarrollador de Software en Trujillo - Perú (Capital de la Primavera). Me gusta mucho crear soluciones tecnologicas, tengo varios años trabajando como desarrollador backend en Java con Spring Framework.
+
+Estoy interesado y he visto otros lenguajes como:
+
+  * Python
+  * JavaScript
+  * TypeScript
+  * C#
 
 <!--
 **Junior-mendez/Junior-mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
