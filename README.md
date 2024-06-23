@@ -1,14 +1,24 @@
-## Hola, Soy Junior Mendez 👋 ##
+## Hello, I'm Junior Mendez 👋 ##
 
+My Information:
 
-Soy Desarrollador de Software en Trujillo - Perú (Capital de la Primavera). Me gusta mucho crear soluciones tecnologicas, tengo varios años trabajando como desarrollador backend en Java con Spring Framework.
+* I'm Software Develover Backend.
+* I'm currely woorking on Encora Inc.
+* I perform microservices with Spring Framework.
+* Intermediate knowledge of Databases.
+* Intermediate knowledge of Cloud (AWS, GCP)
+* Intermediate knowledge of Test Automation.
+* Basic knowledge of Reactive Programation.
 
-Estoy interesado y he visto otros lenguajes como:
+I am interested and have seen languages ​​like:
 
   * Python
   * JavaScript
   * TypeScript
   * C#
+    
+📫 How to reach me:
+https://www.linkedin.com/in/junior-mendez-lezcano/
 
 <!--
 **Junior-mendez/Junior-mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
