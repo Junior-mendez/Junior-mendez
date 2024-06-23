@@ -18,7 +18,7 @@ I am interested and have seen languages ​​like:
   * C#
     
 📫 How to reach me:
-https://www.linkedin.com/in/junior-mendez-lezcano/
+* [Linkedin](https://www.linkedin.com/in/renzo-daniel-lavado-rivas-76627b103/)
 
 <!--
 **Junior-mendez/Junior-mendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
